@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.swn
+/build
+/assets
+/audacity_projects
+/pixelorama_projects
+/json-develop/build
